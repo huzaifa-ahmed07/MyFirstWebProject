@@ -1,0 +1,62 @@
+body{
+    background-image: url("wallpaper.jpg");
+    padding:0;
+    margin:0;
+     }
+.background{
+    background-color: rgb(255, 255, 255);
+    margin:30px auto;
+    padding: 30px;
+    width: 800px;
+    border:2px solid rgb(189, 245, 245);
+    overflow: auto;
+    }
+.header{
+    text-align: right;
+    color: rgb(8, 148, 99);
+    background-color:aquamarine;
+    margin: 10px;
+    }
+.friends{
+    background-color: rgb(10, 185, 127);
+    float:left;
+    padding:10px;
+    margin-right:20px;
+    border: 2px solid rgb(9, 126, 87) ;
+    width:180px;
+    }
+.friends h2{
+    color:rgb(8, 148, 99);
+    font-weight:bold;
+    margin-top:0;
+}
+.friends ul{
+    padding-left:20px;
+}
+.internal{
+    border:2px solid rgb(91, 156, 134);
+    background-color: rgb(156, 228, 204);
+    padding: 10px;
+    overflow:auto;
+    margin-bottom:20px;
+    clear: right;
+    margin-left:220px;
+}
+.internal h4{
+    color:rgb(8, 148, 99);
+    font-weight:bold;
+    border-bottom:1px dotted rgb(11, 168, 113);
+    margin-top:0;
+}
+.internal img{
+    float:right;
+    width:150px;
+    height:auto;
+    margin-left:10px;
+}
+.internal p{
+    font-size:14px;
+    line-height:1.4;
+}
+
+
